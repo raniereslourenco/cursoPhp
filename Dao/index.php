@@ -2,6 +2,21 @@
 
 require_once ("config.php");
 
+$lista = Usuario::getList();
+
+echo json_encode($lista);
+
+
+/* deletando usuario
+$usuario = new Usuario();
+
+$usuario->loadById(4);
+
+$usuario->delete();
+
+echo $usuario;
+*/
+/* alterar usuario
 $usuario = new Usuario();
 
 $usuario->loadById(4);
@@ -9,7 +24,7 @@ $usuario->loadById(4);
 $usuario->update("professor","159753");
 
 echo $usuario;
-
+*/
 /*
 //criando um novo usuario
 $aluno = new Usuario("root","789456");
