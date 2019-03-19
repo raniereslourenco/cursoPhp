@@ -1,0 +1,321 @@
+email,_website,_store,firstname,lastname,password_hash,created_in,store_id,group_id,website_id,prefix,middlename,suffix,dob,taxvat,confirmation,gender,created_at,rp_token,rp_token_created_at,disable_auto_group_change,koin_cpf,koin_cnpj,koin_birthday,koin_founding_date,koin_termo_aceite,rg_atribute,ebizmarts_reviews_cntr_total,ebizmarts_reviews_coupon_total,vpsa_id,atualizado_vpsa,tipopessoa,ie,mailchimp_sync_delta,mailchimp_sync_error,mailchimp_sync_modified,login_hash,vindi_user_code,password_created_at,erp_id,representante_id,rp_customer_id,password,_address_city,_address_company,_address_country_id,_address_fax,_address_firstname,_address_koin_birthday,_address_koin_cnpj,_address_koin_cpf,_address_koin_founding_date,_address_koin_termo_aceite,_address_lastname,_address_postcode,_address_prefix,_address_region,_address_street,_address_suffix,_address_telephone,_address_vat_id,_address_default_billing_,_address_default_shipping_
+fabrinymodaintima54@hotmail.com,base,default,"Luzia Amabile Fabricio Seidel Comercio de Roupas ME","Fabriny Modas",bc6ea1917093251e2481928061297227:0o5aszaVhJSQuUt3kjQ9aBpLhKtpTd3e,SignaShop,1,1,1,,,,,08.913.317/0001-20,,,"2016-03-17 23:52:35",,,0,,,,,,2,,,,,Jurídica,,,,,,,,,,,,Atibaia,,BR,"(11) 97332-6939","Luzia Amabile Fabricio Seidel Comercio de Roupas ME",,,,,,"Fabriny Modas",12940-680,,"São Paulo","Rua Thome Franco
+381
+
+Centro",,"(11) 2427-2070",,1,1
+victor@signativa.com.br,base,default,"Victor William",Faccio,5190b58daadc6e970929f056b4c6b8bc:xtA9X8CunSrQDPPBsGU8VGYudaGdri3k,SignaShop,1,1,1,,,,"1989-07-28 00:00:00",067.056.039-17,,Male,"2016-06-02 00:47:57",,,0,,,,,,50299999,,,,,Física,25552555,,,,,,,,,,,"Balneário Camboriú",,BR,,"Victor William",,,,,,Faccio,88330-668,,"Santa Catarina","Avenida Central
+227
+605
+Centro",,"(47) 9622-2708",,1,1
+caio.monteiro@hotmail.com,base,default,Caio,Monteiro,b07c3648deeaa6dcbaf752d3aad316a8:lIVqm9s29hNHAVo4sP0B2mc7t7bcvoZN,SignaShop,1,1,1,,,,,296.293.558-33,,,"2016-07-10 17:52:42",,,0,,,,,,2,,,,,Física,,,,,,,,,,,,"São Paulo",,BR,"(11) 96083-3440",Caio,,,,,,Monteiro,02311-100,,"São Paulo","Rua das Gamboas
+268
+
+Vila Mazzei",,"(11) 2953-3537",,1,1
+geovani@signativa.com.br,base,default,Geovani,Signativa,22eeb784ac073202cdc82533e141826c:biIDUylqitdWFoUqj5a5rVG0FTvbtwVo,SignaShop,1,1,1,,,,,96072620264,,,"2016-07-13 00:17:33",a759b80a50224e1592762b60f9abe7dd,"2017-11-22 16:54:35",0,,,,,,2,,,,,Física,,,,,,,,,,,,Blumenau,,BR,47999999999,Geovani,,,,,,Signativa,89052-004,,,"Rua Dois de Setembro
+123
+
+Teste",,111111111111,,1,1
+ewertonsoares@yahoo.com.br,base,default,Ewerton,Gomes,3af96c7d923d4a1cc573a69ae1203cce:3JaEsHvPE1QcdiEV9slLLF6mHWMJvmlH,SignaShop,1,1,1,,,,,797.439.436-68,,,"2016-08-14 23:01:39",,,0,,,,,,2,,,,,Física,,,,,,,,,,,,Ipatinga,,BR,"(31) 8465-8648",Ewerton,,,,,,Gomes,35164-255,,"Minas Gerais","Rua Belém
+135
+apto 102
+Veneza",,"(31) 8465-8648",,1,1
+teste@signativa.com.br,base,default,teste,teste,00464e575590ea2be06f43fbccb3ae64:ED2OHzcmU6LjlydLKgzyzES2T8Qnfsxs,SignaShop,1,1,1,,,,,067.463.311-30,,,"2018-10-16 14:12:27",,,0,,,,,,,,,,,Física,,,,,,,,,,,,Fortaleza,,BR,,teste,,,,,,teste,60035-111,,Ceará,"Avenida Duque de Caxias
+901
+loja apiguana
+Centro",,"(47) 7777-7777",,1,1
+raniereslourenco@gmail.com,base,admin,raniere,"sousa lourenco",3c187d72310c8c6838a2da1a9bc3a642:0vZvwhYBf2gSW4KiGNkyHhG1liXB6cE4,Admin,0,1,1,,,,"1981-01-23 00:00:00",61594040320,,Male,"2018-10-19 18:49:45",,,0,,,,,,95002244620,,,0,0,,,,,,,,1539974985,,,,,Fortaleza,,BR,,raniere,,,,,,"sousa lourenco",60740510,,Ceará,"rua peru
+852
+
+Itaoca",,85988794738,,1,1
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,FORTALEZA,,BR,,raniere,,,,,,"sousa lourenco",60740510,,Ceará,"Rua Peru
+852
+
+Itaoca",,85988794738,,,
+iesucristo@gmail.com,base,default,cassia,"santos lourenco",d925e3c31c33e375ad9363cbf7ce5372:NSmoGcOcQ52LYxGqPdOpz7rm0agKvRGy,SignaShop,1,1,1,,,,,013.900.133-67,,,"2018-12-12 17:40:35",,,0,,,,,,,,,,,Física,,,,,,,,,,,,Fortaleza,,BR,"(85) 8826-1936","cassia ",,,,,,"santos lourenco",60740-510,,Ceará,"Rua Peru
+852
+
+Itaoca",,"(85) 3292-4106",,,1
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Fortaleza,,BR,"(85) 8826-1936","cassia ",,,,,,"santos lourenco",60740-510,,Ceará,"Rua Peru
+852
+
+Itaoca",,"(85) 3292-4106",,1,
+almirocunha@gmail.com,base,default,Almiro,Cunha,3133d98a378c39e4a439670deaad9996:lgL7MZk72bhbr3sh7KSoB6WduxpsUftD,SignaShop,1,1,1,,,,,299.408.853-34,,,"2018-12-17 14:47:30",,,0,,,,,,,,,,,Física,,,,,,,,,,,,Fortaleza,,BR,"(85) 98821-6589",Almiro,,,,,,Cunha,60833-482,,Ceará,"Rua Dr Itamar Espíndola
+849
+Prox Reserva
+Sapiranga",,"(85) 3273-0352",,1,1
+larissa@signativa.com.br,base,default,teste,signativa,624e982b16e5949f0aaa3de2ac37f059:ySRerY1VC9Z3u1Dnl6KhBNIvLAgfkNiq,SignaShop,1,1,1,,,,,186.010.582-30,,,"2018-12-27 11:47:10",,,0,,,,,,,,,,,Física,,,,,,,,,,,,Blumenau,,BR,"(47) 99999-9999",teste,,,,,,signativa,89070-110,,"Santa Catarina","Rua Carl Müller
+657
+
+Badenfurt",,"(47) 3333-3333",,,1
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Blumenau,,BR,"(47) 99999-9999",teste,,,,,,signativa,89070-110,,"Santa Catarina","Rua Carl Müller
+657
+
+Badenfurt",,"(47) 3333-3333",,1,
+danielcw@apiguana.com.br,base,default,Daniel,"Campos Wanderley",14e5c06851daf4f42392a26964c4ec02:rpFkxuzNoIURzDG6l3ZnLSORqj2rTSWz,SignaShop,1,1,1,,,,,679.201.603-91,,,"2019-02-05 16:37:36",,,0,,,,,,,,,,,Física,,,,,,,,,,,,Fortaleza,,BR,"(85) 98802-8804",Daniel,,,,,,"Campos Wanderley",60125-120,,Ceará,"Rua Joaquim Nabuco
+643
+apt 700
+Meireles",,"(85) 3224-1207",,1,1
+marceloapf9@gmail.com,base,default,Marcelo,Antônio,e0d1e8ccabd696a6c73c610320d152d5:p8lrcFdrPQupxpuOkU3BKnQRzTpCTw4E,SignaShop,1,1,1,,,,,090.001.268-43,,,"2019-02-22 14:38:32",,,0,,,,,,,,,,,Física,,,,,,,,,,,,Fortaleza,,BR,"(85) 99954-6513","Marcelo ",,,,,,"Antônio ",60335-530,,Ceará,"Travessa Joaquim Pinto
+46
+Casa
+Álvaro Weyne",,"(85) 9954-6513",,1,1
+gtrclimatizacao@gmail.com,base,default,"GLEICIO TEIXEIRA RIBEIRO 64978389372","GTR CLIMATIZAÇÃO E ELÉTRICA ME",2c2197bd2b45653457aa16287d14aa2c:WaYXLNhY8onkBjAvwXcIGodJJxGceFKV,SignaShop,1,1,1,,,,,30.795.583/0001-55,,,"2019-02-22 21:41:35",,,0,,,,,,,,,,,Jurídica,,,,,,,,,,,,Maracanaú,,BR,"(85) 99784-1484","GLEICIO TEIXEIRA RIBEIRO 64978389372",,,,,,"GTR CLIMATIZAÇÃO E ELÉTRICA ME",61909-070,,Ceará,"Rua Airton Senna
+23
+
+Horto",,"(85) 9784-1484",,,1
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Maracanaú,,BR,"(85) 99784-1484","GLEICIO TEIXEIRA RIBEIRO 64978389372",,,,,,"GTR CLIMATIZAÇÃO E ELÉTRICA ME",61909-070,,Ceará,"Rua Airton Senna
+23
+
+Horto",,"(85) 9784-1484",,1,
+laucylopesdl@yahoo.com,base,default,LAUCY,"LOPES DA LUZ",b13e4a51a6f3863af54a05873a70d17d:50r87pTINjxQWd5Y1NWNScb2tC8KlHb9,SignaShop,1,1,1,,,,,016.668.112-11,,,"2019-02-24 18:37:56",,,0,,,,,,,,,,,Física,,,,,,,,,,,,Itaituba,,BR,"(93) 99215-4372","LAUCY ",,,,,,"LOPES DA LUZ",68180-250,,Pará,"Rua Homero Gomes de Castro,
+818
+b
+bela vista",,"(93) 99216-7524",,1,1
+r.trevo@hotmail.com,base,default,Rômulo,Marques,591c6ae0c522a3f0794be1db85eaa269:uZVkM2Iip0hQPjM3FZGUZahaHEvJG0sb,SignaShop,1,1,1,,,,,422.938.713-04,,,"2019-02-25 15:51:40",,,0,,,,,,,,,,,Física,,,,,,,,,,,,Meruoca,,BR,"(88) 99257-5118","Rômulo ",,,,,,"Marques ",62130-000,,Ceará,"Rua  Jandira Marques 
+10
+
+Centro",,"(88) 3649-1181",,,1
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Meruoca,,BR,"(88) 99257-5118","Rômulo ",,,,,,"Marques ",62130-000,,Ceará,"Rua  Jandira Marques 
+10
+
+Centro",,"(88) 3649-1181",,1,
+financeiro@jardimmetropolitano.com.br,base,default,"CONTIL CONSTRUÇÃO E INCORPORAÇÃO DE IMÓVEIS LTDA","CEMITÉRIO JARDIM METROPOLITANO",99f8ef6d9d96b2619d44adb4f19bdf4d:PZSnFJg7rQt67S6oWAMYEquhYzYcoF0I,SignaShop,1,1,1,,,,,23.547.219/0001-00,,,"2019-02-26 12:09:16",,,0,,,,,,,,,,,Jurídica,,,,,,,,,,,,Eusébio,,BR,"(85) 99211-1041","CONTIL CONSTRUÇÃO E INCORPORAÇÃO DE IMÓVEIS LTDA",,,,,,"CEMITÉRIO JARDIM METROPOLITANO",61760-000,,Ceará,"av. sexto anel viario
+0
+
+coaçu",,"(85) 3033-5555",,,1
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Eusébio,,BR,"(85) 99211-1041","CONTIL CONSTRUÇÃO E INCORPORAÇÃO DE IMÓVEIS LTDA",,,,,,"CEMITÉRIO JARDIM METROPOLITANO",61760-000,,Ceará,"av. sexto anel viario
+0
+
+coaçu",,"(85) 3033-5555",,1,
+rubens@apiguana.com.br,base,default,Rubens,"Whitaker Lopes Filho",fe4e55b5bfde6640cc9ea4d853f15639:7y2lSmpKYsgJ9dj06hDLlSd5YJ8qDAdX,SignaShop,1,1,1,,,,,093.577.968-00,,,"2019-02-26 18:47:59",,,0,,,,,,,,,,,Física,,,,,,,,,,,,Fortaleza,,BR,,Rubens,,,,,,"Whitaker Lopes Filho",60140-025,,Ceará,"Rua Bárbara de Alencar
+1800
+Apto 802
+Aldeota",,"(85) 99805-5557",,1,1
+annaclaudiafcosta@live.com,base,default,"Ana claudia ferreira",costa,131098bdda7e75208be84e94b97846e6:4IXkaDWj7mtvjDvZrBkKMsJrVfyUd27Q,SignaShop,1,1,1,,,,,003.252.063-84,,,"2019-02-27 18:42:19",,,0,,,,,,,,,,,Física,,,,,,,,,,,,Fortaleza,,BR,"(85) 98633-6201","Ana claudia ferreira",,,,,,costa,60182-250,,Ceará,"Avenida Clóvis Matos
+612
+Avenida clovis de matos
+Vicente Pinzon",,"(85) 3262-9590",,,1
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Fortaleza,,BR,"(85) 98633-6201","Ana claudia ferreira",,,,,,costa,60182-250,,Ceará,"Avenida Clóvis Matos
+612
+Avenida clovis de matos
+Vicente Pinzon",,"(85) 3262-9590",,1,
+antonioalexandre0735@gmail.com,base,default,Antonio,Alexandre,a8fe3656e4cc88271a89c8b1b612feb1:B5FyNaQSjudNHR9TB4u7MHc6P79VtpP5,SignaShop,1,1,1,,,,,746.113.803-00,,,"2019-02-27 20:09:46",,,0,,,,,,,,,,,Física,,,,,,,,,,,,Fortaleza,,BR,"(85) 99840-4083",Antonio,,,,,,Alexandre,60732-142,,Ceará,"Avenida general Osório de Paiva
+7761
+Borracharia do Antonio
+Siqueira 2",,"(85) 98820-3372",,1,1
+claudio7550@hotmail.com,base,default,Cláudio,Sampaio,9dd1c777d11ff7ef0117c1f535f06baf:DtsM2vnYXha8yWHTcOyUmpDcdlqN246U,SignaShop,1,1,1,,,,,923.756.933-53,,,"2019-02-28 18:57:39",,,0,,,,,,,,,,,Física,,,,,,,,,,,,Fortaleza,,BR,"(85) 98777-4484","Cláudio ",,,,,,"Sampaio ",60860-210,,Ceará,"Travessa Quatro de Maio
+67
+
+Dias Macedo",,"(85) 90000-0000",,,1
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Fortaleza,,BR,"(85) 98777-4484","Cláudio ",,,,,,"Sampaio ",60860-210,,Ceará,"Travessa Quatro de Maio
+67
+
+Dias Macedo",,"(85) 90000-0000",,1,
+oderjr@gmail.com,base,default,"ODER R A",JUNIOR,47e49de54624ecab6f551f438aee1c50:OtzJO1lAoBy4CQAQTfNlNLBvQPW2JL2S,SignaShop,1,1,1,,,,,776.050.047-53,,,"2019-03-01 09:43:58",,,0,,,,,,,,,,,Física,,,,,,,,,,,,Fortaleza,,BR,"(85) 99989-3406","ODER R A",,,,,,JUNIOR,60015-331,,Ceará,"Rua dos Praçinhas
+899
+Próximo ao shopping Benfica
+Benfica",,"(85) 98923-5726",,,1
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Fortaleza,,BR,"(85) 99989-3406","ODER R A",,,,,,JUNIOR,60015-331,,Ceará,"Rua dos Praçinhas
+899
+Próximo ao shopping Benfica
+Benfica",,"(85) 98923-5726",,1,
+narions@outlook.com.br,base,default,"nario de nojosa silva",nojosa,8da154ce65e2be26fd7fb913adc20832:bfEza46AodAWxKIsSZZ767dlsFxTr276,SignaShop,1,1,1,,,,,940.468.403-15,,,"2019-03-01 12:36:03",,,0,,,,,,,,,,,Física,,,,,,,,,,,,Caucaia,,BR,"(85) 9791-4844","nario de nojosa silva",,,,,," nojosa",61605-400,,Ceará,"Avenida Contorno Leste
+97
+
+Planalto Caucaia",,"(85) 98566-2520",,,1
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Caucaia,,BR,"(85) 9791-4844","nario de nojosa silva",,,,,," nojosa",61605-400,,Ceará,"Avenida Contorno Leste
+97
+
+Planalto Caucaia",,"(85) 98566-2520",,1,
+Pam.duartte20@gmail.com,base,default,Pamala,Duarte,5ef2bf3ec00ac811eaf249f0e0a9fc85:xMKyQbZZrDrVSl7Yol5CR9cMxYBaBbs3,SignaShop,1,1,1,,,,,072.964.303-46,,,"2019-03-02 01:27:59",,,0,,,,,,,,,,,Física,,,,,,,,,,,,Aquiraz,,BR,"(85) 98762-4167",Pamala,,,,,,"Duarte ",61700-000,,Ceará,"Avenida Noé Leite de Freitas 
+9999
+Próximo ao sítio Josimar de Castro, na Rua Tapuio Catolé
+Tapuio",,"(85) 98762-4167",,1,1
+ayltonalves77@gmail.com,base,default,Aylton,Alves,c348f8ee725077c150621c40bd4fa594:UfCX6pDFctFk9bciOjvIXE0qjPPdL2nn,SignaShop,1,1,1,,,,,013.833.773-08,,,"2019-03-03 01:58:13",,,0,,,,,,,,,,,Física,,,,,,,,,,,,Chaval,,BR,"(88) 98862-9907",Aylton,,,,,,Alves,62420-000,,Ceará,"Monsenhor José Carneiro
+253
+Próximo a casa Santa Helena
+Centro",,"(88) 98862-9907",,,1
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Chaval,,BR,"(88) 98862-9907",Aylton,,,,,,Alves,62420-000,,Ceará,"Monsenhor José Carneiro
+253
+Próximo a casa Santa Helena
+Centro",,"(88) 98862-9907",,1,
+renataitafacil@hotmail.com,base,default,Renata,Martins,39fd4f391ba4ece01ac4b7504bc5f358:kh89g7xbgHbXQMIMGgHplmSqTI0LyKXR,SignaShop,1,1,1,,,,,034.029.433-79,,,"2019-03-04 15:31:01",,,0,,,,,,,,,,,Física,,,,,,,,,,,,Itapipoca,,BR,,Renata,,,,,,Martins,62500-000,,Ceará,"Ricardo Paiva barroso
+513
+Casa
+Encruzilhadas",,"(88) 9938-9946",,1,1
+adrianocoelce@bol.com.br,base,default,"ADRIANO FRANCISCO PEREIRA DE OLIVEIRA",FRANCISCO,c79d6a5d054ab1b0c55733e7fdc84d7e:T6CWA8WRZB6SM77xBFICFbIQjqgWy0fp,SignaShop,1,1,1,,,,,646.857.723-34,,,"2019-03-05 01:05:33",,,0,,,,,,,,,,,Física,,,,,,,,,,,,Horizonte,,BR,"(85) 98122-4029","ADRIANO FRANCISCO PEREIRA DE OLIVEIRA",,,,,,FRANCISCO,62884-250,,Ceará,"Rua Luis Costa
+101
+Rua Luís Costa  N:101
+Planalto Horizonte",,"(85) 99958-3294",,,1
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Horizonte,,BR,"(85) 98122-4029","ADRIANO FRANCISCO PEREIRA DE OLIVEIRA",,,,,,FRANCISCO,62884-250,,Ceará,"Rua Luis Costa
+101
+Rua Luís Costa  N:101
+Planalto Horizonte",,"(85) 99958-3294",,1,
+marinho90@yahoo.com,base,default,renato,marinho,866fcf53c3ed5483b388de962efc9711:MhVRaZ6WSNMBAdfQZn2Nyi4GbEblx3qO,SignaShop,1,1,1,,,,,086.981.644-63,,,"2019-03-05 02:47:44",,,0,,,,,,,,,,,Física,,,,,,,,,,,,Igarassu,,BR,,renato,,,,,,marinho,53610-970,,Pernambuco,"Avenida Severino Tavares Uchôa
+00
+
+Centro",,"(81) 99409-5850",,1,1
+josenilsonfontele76@gmail.com,base,default,"Jose Nilson Pereira Fontele",Nilson,bb294a3b104a3192b8863ed455b8f6d9:PU5zbm4U1q4IJgUOvZwmFv5gIvkmsxqc,SignaShop,1,1,1,,,,,745.877.063-53,,,"2019-03-05 15:15:39",,,0,,,,,,,,,,,Física,,,,,,,1551799186,,,,,Martinópole,,BR,"(88) 98857-1172","Jose Nilson Pereira Fontele",,,,,,Nilson,62450-000,,Ceará,"Rua- Chico dos Anjos
+65
+Por traz do centro cultural esportivo
+João Chagas",,"(88) 3627-1057",,,1
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Martinópole,,BR,"(88) 98857-1172","Jose Nilson Pereira Fontele",,,,,,Nilson,62450-000,,Ceará,"Rua- Chico dos Anjos
+65
+Por traz do centro cultural esportivo
+João Chagas",,"(88) 3627-1057",,1,
+francinaldojef@gmail.com,base,default,Francinaldo,"Silva Oliveira",7a607060b61c362eae3e87eb28eb706d:SqWoY6ZF5LPkPMUTo7W746t1mlHeVvCR,SignaShop,1,1,1,,,,,619.179.903-91,,,"2019-03-05 19:51:45",,,0,,,,,,,,,,,Física,,,,,,,,,,,,Maranguape,,BR,"(85) 98587-9860","Francinaldo ",,,,,,"Silva Oliveira",61944-430,,Ceará,"Rua Raimundo Pacheco
+288
+Rua Raimundo Pacheco
+Novo Maranguape II",,"(85) 98601-9171",,,1
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Maranguape,,BR,"(85) 98587-9860","Francinaldo ",,,,,,"Silva Oliveira",61944-430,,Ceará,"Rua Raimundo Pacheco
+288
+Rua Raimundo Pacheco
+Novo Maranguape II",,"(85) 98601-9171",,1,
+nk_servicos@hotmail.com,base,default,Raimundo,amilton,58bcac5e34b55573d6ee209fefa61912:BmA3sIyyT63PlgKTHW0NHQloRhojLfn7,SignaShop,1,1,1,,,,,656.204.533-91,,,"2019-03-06 14:38:50",,,0,,,,,,,,,,,Física,,,,,,,,,,,,Fortaleza,,BR,"(85) 99790-4702","Raimundo ",,,,,,amilton,60866-568,,Ceará,"Rua Santa Luzia do Contorno
+90
+R STA LUZIA DO CONTORNO, 90
+Jangurussu",,"(85) 99789-2488",,,1
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Fortaleza,,BR,"(85) 99790-4702","Raimundo ",,,,,,amilton,60866-568,,Ceará,"Rua Santa Luzia do Contorno
+90
+R STA LUZIA DO CONTORNO, 90
+Jangurussu",,"(85) 99789-2488",,1,
+freitastorress@hotmail.com,base,default,Felipe,Freitas,6103d384c04e037ffe9ebb274db001e8:vTLeK4XCxkuidDp9Hd88rFwEXWJkETbW,SignaShop,1,1,1,,,,,043.641.903-30,,,"2019-03-07 02:59:42",,,0,,,,,,,,,,,Física,,,,,,,,,,,,Fortaleza,,BR,"(85) 98532-3653",Felipe,,,,,,Freitas,60831-490,,Ceará,"Rua Luiza Guimarães
+107
+
+Lagoa Redonda",,"(85) 98532-3653",,1,1
+eduardajojo@hotmail.com,base,default,"Pedro Paulino",Xavier,d65e6c6c84d0b0d0f3e833821dfc424e:P8ad9HSHEy9ECMkHPvHEKoyaI5nXeV3y,SignaShop,1,1,1,,,,,542.609.903-06,,,"2019-03-09 18:15:33",,,0,,,,,,,,,,,Física,,,,,,,,,,,,Fortaleza,,BR,"(85) 99254-6456","Pedro Paulino",,,,,,Xavier,60760-460,,Ceará,"Rua Ribeirão Bonito
+1352
+Casa b
+Planalto Ayrton Senna",,"(85) 98544-4172",,,1
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Fortaleza,,BR,"(85) 99254-6456","Pedro Paulino",,,,,,Xavier,60760-460,,Ceará,"Rua Ribeirão Bonito
+1352
+Casa b
+Planalto Ayrton Senna",,"(85) 98544-4172",,1,
+marciliopereira_@hotmail.com,base,default,"Francisco Marcílio Pereira",Marcílio,787eb6ca5a15b29034f706df39f54910:Q7Kfx1Zhcp7pUDJYJ4TU0nIA7NEjaajT,SignaShop,1,1,1,,,,,382.504.893-49,,,"2019-03-10 18:23:47",,,0,,,,,,,,,,,Física,,,,,,,,,,,,Granja,,BR,"(88) 99951-9692","Francisco Marcílio Pereira",,,,,,Marcílio,62430-000,,Ceará,"Rua Alto dos Pescadores, 626
+626
+
+São Pedro",,"(88) 99951-9692",,,1
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Granja,,BR,"(88) 99951-9692","Francisco Marcílio Pereira",,,,,,Marcílio,62430-000,,Ceará,"Rua Alto dos Pescadores, 626
+626
+
+São Pedro",,"(88) 99951-9692",,1,
+suprimentos.ce@varejaodasucata.com.br,base,default,"Varejão da Sucata LTDA","Varejão da Sucata",69e56d456f7714a08297a5702ff89d4a:nG1ji1oT3rvUoTQCUTgG6tH6KClLeSGq,SignaShop,1,1,1,,,,,06.348.562/0001-07,,,"2019-03-11 15:43:22",,,0,,,,,,,,,,,Jurídica,,,,,,,,,,,,Maracanaú,,BR,"(85) 98406-4322","Varejão da Sucata LTDA",,,,,,"Varejão da Sucata",61921-520,,Ceará,"Avenida Anel Viário
+5021
+
+Alto Alegre II",,"(85) 4012-9999",,,1
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Maracanaú,,BR,"(85) 98406-4322","Varejão da Sucata LTDA",,,,,,"Varejão da Sucata",61921-520,,Ceará,"Avenida Anel Viário
+5021
+
+Alto Alegre II",,"(85) 4012-9999",,1,
+josimarduarte07@outlook.com,base,default,Josimar,"Silva Duarte",995807b9881168ca428bea8181a7f91b:qu64t6rX6EmLTPKU0UqCtz9hHMxVSHbm,SignaShop,1,1,1,,,,,973.508.503-87,,,"2019-03-12 01:41:36",,,0,,,,,,,,,,,Física,,,,,,,,,,,,Ipueiras,,BR,"(88) 99655-1050",Josimar,,,,,,"Silva Duarte ",62230-000,,Ceará,"Coronel José Pompeu 
+754
+Vizinho a casa loterica 
+Centro",,"(88) 12345-6789",,,1
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Ipueiras,,BR,"(88) 99655-1050",Josimar,,,,,,"Silva Duarte ",62230-000,,Ceará,"Coronel José Pompeu 
+754
+Vizinho a casa loterica 
+Centro",,"(88) 12345-6789",,1,
+pauloricardomaia2000@gmail.com,base,default,"Paulo Ricardo Maia da",Silva,dd83d64ad23616d98e33bc07e4a5833f:UFUiPTR09BmWaw3MHrQNgeQVixZhq0XO,SignaShop,1,1,1,,,,,356.043.603-68,,,"2019-03-12 09:41:41",,,0,,,,,,,,,,,Física,,,,,,,,,,,,Fortaleza,,BR,"(85) 9796-5007","Paulo Ricardo Maia da ",,,,,,Silva,60876-600,,Ceará,"Rua 36
+30
+Conj Sitio São João
+Jangurussu",,"(85) 9796-5007",,,1
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Fortaleza,,BR,"(85) 9796-5007","Paulo Ricardo Maia da ",,,,,,Silva,60876-600,,Ceará,"Rua 36
+30
+Conj Sitio São João
+Jangurussu",,"(85) 9796-5007",,1,
+rafasom29@gmail.com,base,default,Rafael,Silveira,99f7137e3d289d80755e1f60386dfb97:FFzppoLsQVaMVVC1T35b8zMM3T3rmgnN,SignaShop,1,1,1,,,,,039.438.183-14,,,"2019-03-12 12:50:38",,,0,,,,,,,,,,,Física,,,,,,,,,,,,Cruz,,BR,"(88) 99805-6984",Rafael,,,,,,Silveira,62595-000,,Ceará,"Cel Texeira pinto
+452
+Loja LUMIART
+Centro",,"(88) 99805-6984",,,1
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Cruz,,BR,"(88) 99805-6984",Rafael,,,,,,Silveira,62595-000,,Ceará,"Cel Texeira pinto
+452
+Loja LUMIART
+Centro",,"(88) 99805-6984",,1,
+zarurgp@gmail.com,base,default,"Francisco Zarur","Guilherme Pereira",ed89ea0703e08b9dc7f520dba8fcac09:Ejx5OxDJTbWE1PxfbUBzQVPtoSCoRhYh,SignaShop,1,1,1,,,,,792.150.413-20,,,"2019-03-12 16:57:31",,,0,,,,,,,,,,,Física,,,,,,,,,,,,Granja,,BR,,"Francisco Zarur ",,,,,,"Guilherme Pereira",62430-000,,Ceará,"Rua Pessoa Anta
+980
+
+Centro",,"(88) 99304-7984",,1,1
+felipe_rodrigues12100@hotmail.com,base,default,felipe,rodrigues,fe1d8bdbf5ba3ea0238f754f1ad6ffc5:mOufj1zbwprQDihizwl5vrGiL4KRydVC,SignaShop,1,1,1,,,,,043.507.703-13,,,"2019-03-12 21:24:29",,,0,,,,,,,,,,,Física,,,,,,,,,,,,Fortaleza,,BR,"(85) 98502-6281",felipe,,,,,,rodrigues,60841-480,,Ceará,"Rua 3
+131
+lagoa 
+Messejana",,"(85) 99607-7699",,,1
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Fortaleza,,BR,"(85) 98502-6281",felipe,,,,,,rodrigues,60841-480,,Ceará,"Rua 3
+131
+estrela da manha
+Messejana",,"(85) 99607-7699",,1,
+macross7@live.com,base,default,Marcos,"Venicius Rodrigues de Sousa",ab57a98230a034c8534e6e035069a64a:jlkCFWFkoHKvZx6aZGNOjIV5cZAVX3ym,SignaShop,1,1,1,,,,,654.651.993-34,,,"2019-03-13 08:03:43",,,0,,,,,,,,,,,Física,,,,,,,,,,,,Fortaleza,,BR,"(85) 99671-7149",Marcos,,,,,,"Venicius Rodrigues de Sousa",60540-282,,Ceará,"Rua Coronel João Correia
+3572
+
+Granja Lisboa",,"(85) 3497-7410",,,1
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Fortaleza,,BR,"(85) 99671-7149",Marcos,,,,,,"Venicius Rodrigues de Sousa",60540-282,,Ceará,"Rua Coronel João Correia
+3572
+
+Granja Lisboa",,"(85) 3497-7410",,1,
+erika.barbosa@outlook.com,base,default,ERIKA,"BARBOSA MOREIRA",50f9d0322a31aa0ac70ee411e7d0e5ae:L1NddHE8fG9Kjj2IKX2czBndudpSneue,SignaShop,1,1,1,,,,,037.758.883-06,,,"2019-03-13 13:14:25",,,0,,,,,,,,,,,Física,,,,,,,,,,,,Caucaia,,BR,"(85) 99673-6474",ERIKA,,,,,,"BARBOSA MOREIRA",61650-290,,Ceará,"Rua Poebla
+1354
+APTO 101
+Parque Guadalajara (Jurema)",,"(85) 98804-7120",,,1
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Caucaia,,BR,"(85) 99673-6474",ERIKA,,,,,,"BARBOSA MOREIRA",61650-290,,Ceará,"Rua Poebla
+1354
+APTO 101
+Parque Guadalajara (Jurema)",,"(85) 98804-7120",,1,
+alessandrasjor@gmail.com,base,default,alessandra,silva,31d07ce3e130a93ae8cf2c97de5f65fe:cXgRw7jRs2dzXyHiY1BUQgb1058ohTaQ,SignaShop,1,1,1,,,,,963.037.003-49,,,"2019-03-13 17:36:15",,,0,,,,,,,,,,,Física,,,,,,,,,,,,Maracanaú,,BR,,alessandra,,,,,,silva,61901-250,,Ceará,"Rua 61
+149
+
+Jereissati III",,"(85) 99913-6779",,1,1
+karol@signativa.com.br,base,default,teste,teste,315f6bdee066bbeaebfd0658dd4c453a:oYmBd0MdGtt3uSQr7C6VWOwaQwgWrw7K,SignaShop,1,1,1,,,,,031.261.119-63,,,"2019-03-13 17:48:37",,,0,,,,,,,,,,,Física,,,,,,,,,,,,Blumenau,,BR,"(47) 33332-2522",teste,,,,,,teste,89074-376,,"Santa Catarina","Rua Jacob Schaeffer
+21
+casa
+Itoupavazinha",,"(47) 99989-8999",,,1
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Blumenau,,BR,"(47) 33332-2522",teste,,,,,,teste,89074-376,,"Santa Catarina","Rua Jacob Schaeffer
+21
+casa
+Itoupavazinha",,"(47) 99989-8999",,1,
+geraldiburekcardoso@gmail.com,base,default,"Geraldi Marcelo",Burek,4643e73b0d608287aed4781dee24bf0c:KFjBTyAkiFysSCrGWFE94R63x71kRPgn,SignaShop,1,1,1,,,,,856.519.079-04,,,"2019-03-14 23:06:49",,,0,,,,,,,,,,,Física,,,,,,,,,,,,"Fortaleza CE",,BR,"(85) 9792-1673","Geraldi Marcelo",,,,,,Burek,61000-000,,Ceará,"Inês Brasil
+587
+Próximo arena Castelão
+Castelão",,"(85) 99792-1673",,,1
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Fortaleza CE",,BR,"(85) 9792-1673","Geraldi Marcelo",,,,,,Burek,61000-000,,Ceará,"Inês Brasil
+587
+Próximo arena Castelão
+Castelão",,"(85) 99792-1673",,1,
+josealberto.limapereira@yahoo.com.br,base,default,"josé alberto","lima pereira",ec8155b5d1b2f51a61a8ba1221f8e642:nBk8xdKIYUDJ30hykBKEOowLO7RGhRxg,SignaShop,1,1,1,,,,,223.941.683-15,,,"2019-03-15 13:55:39",,,0,,,,,,,,,,,Física,,,,,,,,,,,,Fortaleza,,BR,"(85) 99928-4480","josé alberto",,,,,,"lima pereira",60325-120,,Ceará,"Rua Vinícius de Morais
+211
+AP-272
+São Gerardo",,"(85) 3266-4467",,1,1
+aristeziode@uol.com.br,base,default,Aristezio,Marinho,034938a530f6b126ca9fa19abace433c:89mvU30d4HR4IOp5D1ZoTqLwvMAE3S1H,SignaShop,1,1,1,,,,,088.571.213-72,,,"2019-03-17 13:44:55",,,0,,,,,,,,,,,Física,,,,,,,,,,,,Fortaleza,,BR,"(85) 98867-9096",Aristezio,,,,,,Marinho,60710-490,,Ceará,"Rua Gago Coutinho
+282
+Casa
+Parangaba",,"(85) 3495-1954",,,1
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Fortaleza,,BR,"(85) 98867-9096",Aristezio,,,,,,Marinho,60710-490,,Ceará,"Rua Gago Coutinho
+282
+Casa
+Parangaba",,"(85) 3495-1954",,1,
+maxmixsom-2012@hotmail.com,base,default,"Jeová Eufrásio Rodrigues Júnior",Eufrasio,2454c4bc880f9f1e88f73ac861cfc069:FmzjXG3oYSSlVWRw9JIJqImIDe6BiscY,SignaShop,1,1,1,,,,,358.088.373-91,,,"2019-03-17 20:58:43",,,0,,,,,,,,,,,Física,,,,,,,,,,,,Milagres,,BR,"(88) 99833-9656","Jeová Eufrásio Rodrigues Júnior",,,,,,Eufrasio,63250-000,,Ceará,"Av monsenhor Gonçalo Eufrasio
+750
+Residência
+Monte Castelo",,"(88) 99833-9656",,,1
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Milagres,,BR,"(88) 99833-9656","Jeová Eufrásio Rodrigues Júnior",,,,,,Eufrasio,63250-000,,Ceará,"Av monsenhor Gonçalo Eufrasio
+750
+Residência
+Monte Castelo",,"(88) 99833-9656",,1,
+Felipeamorim104@gmail.com,base,default,Felipe,Amorim,8e01ba643f8e4b5dc449a9b487389ad6:Fa29DJ9RryxWMdxPHRJdWqM5n7Dlnvuf,SignaShop,1,1,1,,,,,066.775.423-78,,,"2019-03-18 17:25:20",,,0,,,,,,,,,,,Física,,,,,,,,,,,,Maracanaú,,BR,"(85) 98520-1867",Felipe,,,,,,Amorim,61916-030,,Ceará,"Avenida A
+72
+
+Jarí",,"(85) 99858-0228",,1,1
+nailsonr@gmail.com,base,default,"Nailson Rodrigues",Silva,f43d57c353a00b70488c8121773a19d8:DDCa3QgTXutAhMz5TKNi6t6gkgOMIEEP,SignaShop,1,1,1,,,,,613.302.483-68,,,"2019-03-18 18:42:36",,,0,,,,,,,,,,,Física,,,,,,,,,,,,Fortaleza,,BR,"(85) 98541-7692","Nailson Rodrigues",,,,,,Silva,60850-690,,Ceará,"Rua Tenente Aurélio Sampaio
+239
+Casa
+Aerolândia",,"(85) 99856-7600",,,1
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Fortaleza,,BR,"(85) 98541-7692","Nailson Rodrigues",,,,,,Silva,60850-690,,Ceará,"Rua Tenente Aurélio Sampaio
+239
+Casa
+Aerolândia",,"(85) 99856-7600",,1,
+almeida.projetos@yahoo.com.br,base,default,"almeida projetos e construções eirele me","almeida projetos",399bf94cf54cef9c1a23bc3e22ed98f7:ueEIO2aFpiyvjobGU3xWPaeF6GoqazIO,SignaShop,1,1,1,,,,,12.943.737/0001-27,,,"2019-03-19 01:32:00",,,0,,,,,,,,,,,Jurídica,,,,,,,,,,,,Crateús,,BR,"(85) 98102-0783","almeida projetos e construções eirele me",,,,,,"almeida projetos",63700-000,,Ceará,"D. Pedro II
+921
+sala 204
+centro",,"(88) 99986-0506",,,1
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Crateús,,BR,"(85) 98102-0783","almeida projetos e construções eirele me",,,,,,"almeida projetos",63700-000,,Ceará,"D. Pedro II
+921
+sala 204
+centro",,"(88) 99986-0506",,1,

@@ -1,6 +1,6 @@
 <?php 
 
-$filename = "usuarios.csv";
+$filename = "clientes.csv";
 
 if (file_exists($filename)){
 
